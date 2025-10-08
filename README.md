@@ -40,3 +40,8 @@ The notebook provides a clean, comparative pipeline with reproducible metrics an
 
 ## 📊 Results
 All the results from my run which of test, train, validation reults including data analysis and corellations are in notebook.
+
+---
+
+## 📁 Dataset
+The dataset I used in the folder called 'NAB'. There are many other datasets in the folder, which can be tried out for improvement and practice purposes.
